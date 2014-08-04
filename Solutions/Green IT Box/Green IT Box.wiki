@@ -1,0 +1,24 @@
+h3. Green IT Box
+\\
+{{html:
+<iframe width="702" height="396" src="http://s.zntr.cc/scripts/iframe.htm?assetid=FqH5-PC01kmCE11uhnCI7C" frameborder="0" webkitallowfullscreen="" allowfullscreen=""></iframe>
+}}
+
+Green IT Box
+
+
+Green IT Box is "a private cloud solution in a box" that replaces conventional hardware and infrastructure with virtual desktops, servers and networking. It includes advanced features that provide more reliability and flexibility than traditional IT systems including:
+
+* Auto provisioning of servers/desktops,
+* Built in fully redundant storage SAN,
+* 15 minute snapshotting
+* Golden image technology
+* Virtual Private Datacenter
+* and much more!
+Green IT Box enables traditional SMB focused resellers to port existing client-server business applications to a cloud infrastructure which can remain either on the premises or within a shared datacenter.
+
+Green IT Box scales easily by adding additional cloud CPU or cloud storage nodes without service interruption!
+
+
+\\
+!/$$space/.files/img/aserver_productview1.png!

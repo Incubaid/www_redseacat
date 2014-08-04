@@ -1,0 +1,59 @@
+h3. Green IT Datacenter
+\\
+{{html:
+<iframe width="702" height="396" src="http://s.zntr.cc/scripts/iframe.htm?assetid=FdbtpXk4D02IhKpQCQDkzB" frameborder="0" webkitallowfullscreen="" allowfullscreen=""></iframe>
+}}
+
+*Green IT Datacenter provides technology-neutral datacenter services including the provision of raw CPU, storage and networking capacity, a unique and highly energy efficient cloud system, high-quality environmental monitoring tools and datacenter automation operating systems, which bring the scale, reliability & cost advantage of a Google or Amazon to its customers and partners without pushing them in a specific technology direction.*
+\\
+{{span: class=imgSmall}}
+!/$$space/.files/img/DC-Front2.jpg!
+{{span}}
+Green IT Datacenter is able to provide the automated bare metal platform in third party or proprietary data centers.
+Green IT Datacenter offers the underlying physical IT infrastructure to support a XaaS business model.
+
+The raw cloud infrastructure will be delivered in:
+
+* New built green field data centers,
+* Customer-owned data centers, and
+* Green IT Datacenter owned and managed data centers.
+
+
+{{span: class=imgSmall}}
+!/$$space/.files/img/DC-Topview.jpg!
+{{span}}
+
+This cloud infrastructure is *automated and managed* by Green IT Datacenter. Customer *capacity delivery is expressed in cloud units:*
+
+* CPU capacity (raw compute power expressed in compute units (CU) which are comparable to the units used by market leader AWS (Amazon Web Services).
+* Storage capacity (a storage unit has a capacity of 1TB net storage space).
+
+
+{{span: class=imgSmall}}
+!/$$space/.files/img/DC-Modules.jpg!
+{{span}}
+
+Green IT Datacenter uses an *array of building blocks:*
+
+* CPU nodes
+* Storage frontend nodes / Caching nodes
+* Storage nodes
+* Power management equipment
+* Network equipment
+
+
+
+
+Green IT Datacenter has *access to technologies developed in its group companies’ eco-system:*
+
+* Cost efficient CPU nodes, built to our specifications.
+* Storage frontend and caching nodes using high-end SSD technology.
+* Innovative Amplidata storage units offering unbreakable and resource efficient data storage, and
+* Racktivity Power management system and equipment.
+
+The Green IT Datacenter cloud infrastructure is *hypervisor agnostic* and can work with all major cloud management software solutions.
+
+* Green IT Datacenter fully manages the infrastructure, resulting in increased performance and uptime.
+* Integration with cloud management platforms through API.
+* Supports self-healing capabilities.
+* Monitoring and reporting tools on physical equipment health.

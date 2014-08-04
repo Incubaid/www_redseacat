@@ -1,0 +1,188 @@
+{{htmlhead:
+ 
+ <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TRY - Agency Theme">
+    <meta name="author" content="Basicoh.com">
+	<style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- Le fav and touch icons -->
+    <!--
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">-->   
+    <script type="text/javascript" src="/lib/jquery-latest.js"></script>	
+}}
+{{favicon:.files/img/favicon2.ico}}
+
+
+{{hasbootstrapcss}}
+
+{{hasbootstrapjs}}
+
+
+
+
+
+
+
+{{css:/$$space/.files/css/bootstrap.css}}
+{{css:/$$space/.files/css/main.css}}
+{{css:/$$space/.files/css/custom.css}}
+{{css:/$$space/.files/css/bootstrap-responsive.css}}
+
+
+
+
+
+{{title:Saudi Cloud - $$space}}
+
+
+
+
+
+
+
+{{div: class=admin }}
+
+
+{{menu: no-guest nopadding
+System:/System
+}}
+
+{{menuadmin}}
+
+
+
+{{div}}
+{{include:menu}}
+{{html:
+<div id="headerwrap">
+			<div class="container">
+				<div class="row">
+				
+				<div class="span6 hidden-tablet">
+	    				<!-- Slider -->
+	          			<div id="myCarousel" class="carousel slide hidden-phone">
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
+							<li data-target="#myCarousel" data-slide-to="2"></li>
+							<li data-target="#myCarousel" data-slide-to="3"></li>
+							<li data-target="#myCarousel" data-slide-to="4"></li>
+						</ol>
+	           				<div class="carousel-inner">
+	              			    <!-- First Image -->
+	              				<div class="item active">
+	                				<h1>Saudi Cloud<br>
+الحوسبة السحابية السعودية</h1>
+							<p class="hidden-phone hidden-tablet"> Welcome to Saudi Cloud, the home to the vision of taking IT to the next level.<br>
+							
+							 Saudi Cloud is a brand of Dacentec KSA, an international corporation delivering cloud solutions to Telcos and SAAS providers.<br>
+							</p>
+	              				</div>
+	              			    
+	              				<div class="item">
+	                				<h1>Change the IT Mindset</h1>
+							<p class="hidden-phone hidden-tablet"> Saudi Cloud sees a need to perceive IT in another way, a mind change in how companies are dealing with IT today. IT has become the most important element next to electricity and oil in our economy.<br>
+							
+							 However, IT has become for many a hurdle and sometimes even a threat, since IT has become too complex to use and to understand.<br>
+							
+							  </p>
+							
+							
+	              				</div>
+								<div class="item">
+	                				<h1>Make IT as Energy</h1>
+							<p class="hidden-phone hidden-tablet"> What if we could use Green IT just like electricity, where we can consume it by the unit and pay for what we use.<br>
+							
+							 The Saudi Cloud cloud is ready to be deployed in Telco context in emerging markets TODAY.<br>
+							
+							 </p>
+							
+							
+	              				</div>
+								<div class="item">
+	                				<h1>Enabling the Telco Cloud</h1>
+							<p class="hidden-phone hidden-tablet"> Saudi Cloud enables telcos and service providers to compete in the cloud, bringing them the same reliability as big public clouds, better cost effectiveness, hybrid public/private cloud and cloud desktop integration.br>
+							
+							 The Saudi Cloud cloud is ready to be deployed in Telco context in emerging markets TODAY.<br>
+							
+							 </p>
+							
+							
+	              				</div>
+								<div class="item">
+	                				<h1>Cloud Know How</h1>
+							<p class="hidden-phone hidden-tablet"> Our highly experienced team delivered major projects in high end hosting and datacenters in the last 15 years.<br>
+							
+							 This allows us to span a much broader delivery than typically is the case.<br>
+							
+							</p>
+							
+							
+	              				</div>
+	            			</div>
+	          			</div><!-- /myCarousel -->
+	    				<!-- /END Slider -->
+					</div><!-- /span6 -->
+				
+					<div class="span6 videoBg">
+						<iframe width="450" height="300" src="http://s.zntr.cc/scripts/iframe.htm?playerid=5oUD2OMC0ku6Rhgp82pSsA&amp;wmode=transparent" frameborder="0" webkitallowfullscreen="" allowfullscreen=""></iframe>
+					</div><!-- /span6 -->
+					
+					
+				</div><!-- /row -->
+			</div><!-- /container -->
+		</div><!-- /headerwrap -->
+
+		
+
+		
+		
+		
+		
+
+
+}}
+
+
+
+
+{{include:footer}}
+
+{{html:  
+	<!-- javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="/$$space/.files/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/$$space/.files/js/theme.js"></script>
+  
+  	
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

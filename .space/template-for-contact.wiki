@@ -1,0 +1,392 @@
+{{htmlhead:
+ 
+ <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TRY - Agency Theme">
+    <meta name="author" content="Basicoh.com">
+	<style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- Le fav and touch icons -->
+    <!--
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">-->   
+    <script type="text/javascript" src="/lib/jquery-latest.js"></script>	
+}}
+{{favicon:.files/img/favicon2.ico}}
+
+
+{{hasbootstrapcss}}
+
+{{hasbootstrapjs}}
+
+
+
+
+
+
+
+{{css:/$$space/.files/css/bootstrap.css}}
+{{css:/$$space/.files/css/main.css}}
+{{css:/$$space/.files/css/custom.css}}
+{{css:/$$space/.files/css/bootstrap-responsive.css}}
+
+
+
+
+
+{{title:Saudi Cloud - $$space}}
+
+
+
+
+
+
+
+{{div: class=admin }}
+
+
+{{menu: no-guest nopadding
+System:/System
+}}
+
+{{menuadmin}}
+
+
+
+{{div}}
+{{include:menu}}
+
+{{html:
+<div id="herowrap">
+		<div class="container">
+			
+				<h3>$$page</h3>
+				
+			
+		</div><!-- /container -->
+	</div><!-- /herowrap -->
+
+
+
+
+<div id="imagewrap">
+    <div class="contactmap">
+	
+	<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Prince+Mohammed+Ben+Abdulaziz+St.&amp;aq=&amp;sll=21.556356,39.178226&amp;sspn=0.070887,0.132093&amp;ie=UTF8&amp;hq=&amp;hnear=Prince+Mohammed+Bin+Abdulaziz+St&amp;ll=21.557695,39.17942&amp;spn=0.008861,0.016512&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+	</div><!-- /contactmap -->
+</div>
+<div class="container">
+		<div class="row">
+			<div class="span4">
+				<br>
+				<br>
+				<div class="sidebar">
+				<h6>Address</h6>
+				<p>Dacentec KSA<br>
+				Prince Mohammed Ben Abdulaziz St.<br>
+				Jeddah 23345<br>
+				Saudi Arabia<br>
+					
+					<h6>Contact</h6>
+					<p>For marketing, send your info to <a href="mailto:marketing@greenitglobe.com" class="external-link" rel="nofollow">marketing@greenitglobe.com</a><br>
+					(phone inquiries will always be<br> requested to send an e-mail)</p>
+					
+					
+					</p>
+					
+					
+					
+				</div>
+					
+					
+					<br>
+					<br>
+					<br>
+			</div><!-- /span4 -->
+			<div class="span8">
+				<br>
+				<br>
+				<div class="contact-area">
+		            <div class="address container">
+				        <div class="row">
+				        	<div class="span6">
+				        }}
+			        	{{ contact_form: receiver_email:info@incubaid.com | custom | id=contact }}
+			        		{{ text: name=sender_name | required=true | placeholder=Name}}
+			        		{{ text: name=sender_Company | required=true | placeholder=Company}}
+							{{ text: name=sender_Phone | required=true | placeholder=Phone}}
+							{{ text: name=sender_email | required=true | placeholder=Email}}
+							{{dropdown: name=single_option | id=single_option
+								* United States of America
+								* Afghanistan
+								* Albania
+								* Algeria
+								* Andorra
+								* Angola
+								* Antigua and Barbuda"
+								* Argentina
+								* Armenia
+								* Australia
+								* Bahamas
+								* Bahrain
+								* Bangladesh
+								* Barbados
+								* Belarus
+								* Belgium
+								* Belize
+								* Benin
+								* Bhutan
+								* Bolivia
+								* Bosnia and Herzegovina
+								* Botswana
+								* Brazil
+								* Brunei
+								* Bulgaria
+								* Burkina Faso
+								* Burma
+								* Burundi
+								* Cambodia
+								* Cameroon
+								* Canada
+								* Cape Verde
+								* Central African Republic
+								* Chad
+								* Chile
+								* China
+								* Colombia
+								* Comoros
+								* Congo, Democratic Republic of the
+								* Congo, Republic of the 
+								* Costa Rica
+								* Cote d'Ivoire
+								* Croatia
+								* Cuba
+								* Cyprus
+								* Czech Republic
+								* Denmark
+								* Djibouti
+								* Dominica
+								* Dominican Republic
+								* East Timor
+								* Ecuador
+								* Egypt
+								* El Salvador
+								* Equatorial Guinea
+								* Eritrea
+								* Estonia
+								* Ethiopia
+								* Fiji
+								* Finland
+								* France
+								* Gabon
+								* Gambia, The
+								* Georgia
+								* Germany
+								* Ghana
+								* Greece
+								* Grenada
+								* Guatemala
+								* Guinea
+								* Guinea-Bissau
+								* Guyana
+								* Haiti
+								* Holy See
+								* Honduras
+								* Hong Kong
+								* Hungary
+								* Iceland
+								* India
+								* Indonesia
+								* Iran
+								* Iraq
+								* Ireland
+								* Israel
+								* Italy
+								* Jamaica
+								* Japan
+								* Jordan
+								* Kazakhstan
+								* Kenya
+								* Kiribati
+								* Korea, North
+								* Korea, South
+								* Kosovo
+								* Kuwait
+								* Kyrgyzstan
+								* Laos
+								* Latvia
+								* Lebanon
+								* Lesotho
+								* Liberia
+								* Libya
+								* Liechtenstein
+								* Lithuania
+								* Luxembourg
+								* Macau
+								* Macedonia
+								* Madagascar
+								* Malawi
+								* Malaysia
+								* Maldives
+								* Mali
+								* Malta
+								* Marshall Islands
+								* Mauritania
+								* Mauritius
+								* Mexico
+								* Micronesia
+								* Moldova
+								* Monaco
+								* Mongolia
+								* Montenegro
+								* Morocco
+								* Mozambique
+								* Namibia
+								* Nauru
+								* Nepal
+								* Netherlands
+								* Netherlands Antilles
+								* New Zealand
+								* Nicaragua
+								* Niger
+								* Nigeria
+								* North Korea
+								* Norway
+								* Oman
+								* Pakistan
+								* Palau
+								* Palestinian Territories
+								* Panama
+								* Papua New Guinea
+								* Paraguay
+								* Peru
+								* Philippines
+								* Poland
+								* Portugal
+								* Qatar
+								* Romania
+								* Romania
+								* Romania
+								* Saint Kitts and Nevis
+								* Saint Lucia
+								* Saint Vincent and the Grenadines
+								* Samoa
+								* San Marino
+								* Sao Tome and Principe
+								* Saudi Arabia
+								* Senegal
+								* Serbia
+								* Seychelles
+								* Sierra Leone
+								* Singapore
+								* Slovakia
+								* Slovenia
+								* Solomon Islands
+								* Somalia
+								* South Africa
+								* South Korea
+								* South Sudan
+								* Spain
+								* Sri Lanka
+								* Sudan
+								* Suriname
+								* Swaziland
+								* Sweden
+								* Switzerland
+								* Syria
+								* Taiwan
+								* Tajikistan
+								* Tanzania
+								* Thailand
+								* Timor-Leste
+								* Togo
+								* Tonga
+								* Trinidad and Tobago
+								* Tunisia
+								* Turkey
+								* Turkmenistan
+								* Tuvalu
+								* Uganda
+								* Ukraine
+								* United Arab Emirates
+								* United Kingdom
+								* Uruguay
+								* Uzbekistan
+								* Vanuatu
+								* Venezuela
+								* Vietnam
+								* Yemen
+								* Zambia
+								* Zimbabwe
+							}}
+							{{dropdown: name=single_option | id=single_option
+								
+								* Green IT Cloud
+								* Green IT D-Rack
+								* Green Cloud Desktop
+								* Green IT Datacenter
+								* Green IT Box
+								* Green IT Stor
+								
+							}}
+			        		{{div: class=textarea-container }}
+	                    		{{ textarea: rows=20 | cols=20 | required |  placeholder=Your Question | id=message| name=body}}
+							{{div}}
+							{{html:
+	                    	<input type="submit" id="submit" name="submit" value="Send" data-loading-text=Sending...>		
+							}}
+						{{ contact_form }}
+				        {{html:
+				        	<!--
+			            	
+			                	<form action="#get-in-touch" method="POST" id="contact">
+			                    	<input type="text" id="contactname" name="contactname" placeholder="Name">
+			                    	<input type="text" id="email" name="email" placeholder="Email">
+			                    	<div class="textarea-container"><textarea id="message" name="message" placeholder="Message"></textarea></div>
+			                    	<input type="submit" id="submit" name="submit" value="Send">
+			                    </form>-->
+			                </div>
+			            </div>
+		            </div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<br>
+		<br>
+	</div>
+
+}}
+
+
+{{include:footer}}
+
+
+
+
+
+{{html:  
+	<!-- javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="/$$space/.files/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/$$space/.files/js/theme.js"></script>
+  
+  	
+}}
+
+
+

@@ -1,0 +1,60 @@
+	{{div: id=footer}}
+			{{div2: class=container}}
+				{{div3: class=row}}
+					{{div4: class=span3}}
+						h4. Solutions
+						* [Green IT Cloud | ../$$space/Green IT Cloud]
+						* [Green IT Cloud Desktop | ../$$space/Green IT Cloud Desktop]
+						* [Green IT Datacenter | ../$$space/Green IT Datacenter]
+						* [Green IT Rack | ../$$space/Green IT Rack]
+						* [Green IT Box | ../$$space/Green IT Box]
+						* [Green IT Stor | ../$$space/Green IT Stor]
+						
+					{{div4}}
+					
+					{{div4: class=span3}}
+						h4. Why Saudi Cloud
+						{{html:
+						<ul>
+							<li><a href="../$$space/Saudi Cloud's vision">Saudi Cloud Vision</a></li>
+							<li><a href=../$$space/Enablin Telco Clouds">Enabling Telco Clouds</a>
+						}} 
+						#* [Enabling Telco Clouds | ../$$space/Enabling Telco Clouds]
+						#* [Saudi Cloud Vision | ../$$space/Saudi Cloud's Vision]
+						
+						
+						
+					{{div4}}
+					{{div4: class=span3}}
+						h4. White Papers
+						* [Telco Case Study | ../$$space/Telco Case Study]
+						* [Cloud Desktop | ../$$space/Cloud Desktop]
+						* [What is a Green DC | ../$$space/What is a Green DC]
+						* [True Green Cloud DC | ../$$space/True Green Cloud DC]
+						* [Building Cloud DCs | ../$$space/Building Cloud DCs]
+					{{div4}}
+					{{div4: class=span3}}
+						h4. Company
+						* [ Mission | ../$$space/Company ]
+						
+					{{div4}}
+				{{div3}}
+			{{div2}}
+		{{div}}
+		
+		{{div: id=copyright}}
+			{{div2: class=container}}
+				{{div3: class=row}}
+					{{div4: class=span9}}
+						&copy; 2012 Dacentec KSA. Saudi Cloud is a brand of Dacentec KSA.
+					{{div4}}
+					{{div4: class=span3}}
+					{{div4}}
+				{{div3}}
+			{{div2}}
+		{{div}}
+
+
+
+
+

@@ -1,0 +1,24 @@
+h3. Cloud Datacenter Knowledge
+
+
+What is a Green Cloud Datacenter
+
+
+
+Authors: William Groh, Arvid Fossen, Wilbert Ingels
+Copyright: 2011 [Dacentec | http://www.dacentec.com]
+
+{{html:
+<a class="downloadImg" href="GUCI - What is a Green Cloud Datacenter.pdf" download><img src="./.files/img/download.png"/></a>
+}}
+\\
+Abstract: Dacentec has developed the ‘True Green Cloud Datacenter’ concept! Green Cloud is designed by a team of datacenter experts that has helped build over a dozen enterprise-scale datacenters during the past two decades. Dacentec implements a combination of innovations to deliver previously unseen levels of efficiency and reliability. Datatec can reduce the carbon footprint by 75% compared to similar large legacy Datacenters. A source of ideas and technologies to further innovation in the datacenter. Dacentec is fully automated and offers remote control for the entire infrastructure which makes it ideal for cloud computing and archive storage.
+\\
+
+{{html:
+Download: <a href="GUCI - What is a Green Cloud Datacenter.pdf" download>What is a Green Cloud Datacenter</a>
+
+}}
+
+
+

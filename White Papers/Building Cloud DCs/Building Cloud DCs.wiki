@@ -1,0 +1,24 @@
+h3. Cloud Datacenter Knowledge
+
+
+How to build datacenters for Cloud
+
+
+
+Authors: Arvid Fossen, William Groh, Wilbert Ingels
+Copyright: 2011 Incubaid [Incubaid | http://www.Incubaid.com]
+
+
+{{html:
+<a class="downloadImg" href="GUCI - How To Build Datacenters for Cloud - 01 Feb 11.pdf" download><img src="./.files/img/download.png"/></a>
+}}
+\\
+Abstract: Datacenters are historically built out from a real estate perspective: renting out floorspace in a secured and redundant environment including power and bandwidth for production infrastructure. Those datacenters have shortages that generate extra costs and create inefficiencies that impact uptime. This is because these datacenters use an older design where the Power Usage Effectiveness (PUE) is poor ...
+\\
+
+{{html:
+Download: <a href="GUCI - How To Build Datacenters for Cloud - 01 Feb 11.pdf" download>How to build datacenters for Cloud</a>
+
+}}
+
+

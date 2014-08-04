@@ -1,0 +1,3 @@
+@template homepage
+
+Some text inside

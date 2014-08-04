@@ -1,0 +1,91 @@
+/*!
+ * TRY - Retina Ready Theme
+ *
+ * Copyright 2013 
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * Created by: Carlos Alvarez
+ * URL: http://www.basicoh.com
+ * Designed and built based on Twitter Bootstrap.
+ */
+
+
+/* COLOR CONFIGURATION 
+*
+* Dark Blue Color
+* Name: Wet Asphalt
+* Hex: #003d7a
+* RGB: rgb(52, 73, 94)
+*
+*
+* PLEASE NOTE: The theme uses the HEX variable.
+*/
+
+a{color:#003d7a}
+a:hover{color:#003d7a}
+.navbar-inverse .nav > li > a:focus,
+.navbar-inverse .nav > li > a:hover {
+  color: #003d7a;
+}
+.navbar-inverse .nav .active > a,
+.navbar-inverse .nav .active > a:hover,
+.navbar-inverse .nav .active > a:focus {
+  background-color: #003d7a;
+}
+.navbar-inverse .navbar-link:hover,
+.navbar-inverse .navbar-link:focus {
+  color: #003d7a;
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background-color: #003d7a;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a {
+  background-color: #003d7a;
+    background-repeat: repeat-x;
+	background-image: linear-gradient(to bottom, #003d7a, #003d7a);
+}
+.navbar-inverse .nav li.dropdown.open > .dropdown-toggle,
+.navbar-inverse .nav li.dropdown.active > .dropdown-toggle,
+.navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle {
+  background-color: #003d7a;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background-color: #003d7a;
+	background-image: linear-gradient(to bottom, #003d7a, #003d7a);
+}
+
+.button-full a {
+	background-color:#003d7a;
+}
+
+.button-transparent a {
+	border-color:#003d7a;
+}
+.button-transparent a:hover {
+	background-color:#003d7a;
+}
+.button-quote a:hover {
+	color: #003d7a;
+	}
+#quote {
+	background-color:#003d7a;
+}
+#herowrap {
+	background-color:#003d7a;
+}
+.desc:hover {
+	background-color:#003d7a;
+}
+.title-bg {
+	border-top:#003d7a;
+}
+input[type=submit] {
+	background: #003d7a;
+}
