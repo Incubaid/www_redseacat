@@ -1,0 +1,150 @@
+{{htmlhead:
+ 
+ <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TRY - Agency Theme">
+    <meta name="author" content="Basicoh.com">
+	<style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- Le fav and touch icons -->
+    <!--
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">-->   
+    <script type="text/javascript" src="/lib/jquery-latest.js"></script>	
+}}
+{{favicon:.files/img/favicon2.ico}}
+
+
+{{hasbootstrapcss}}
+
+{{hasbootstrapjs}}
+
+
+
+
+
+
+
+{{css:/$$space/.files/css/bootstrap.css}}
+{{css:/$$space/.files/css/main.css}}
+{{css:/$$space/.files/css/custom.css}}
+{{css:/$$space/.files/css/bootstrap-responsive.css}}
+
+
+
+
+
+{{title:Saudi Cloud - $$space}}
+
+
+
+
+
+
+
+{{div: class=admin }}
+
+
+{{menu: no-guest nopadding
+System:/System
+}}
+
+{{menuadmin}}
+
+
+
+{{div}}
+
+{{include:menu}}
+
+{{html:
+<div id="herowrap">
+		<div class="container">
+			
+				<h3>$$page</h3>
+				
+			
+		</div><!-- /container -->
+	</div><!-- /herowrap -->
+	
+		
+	<div class="white">	
+	<div class="container">
+		<div class="row">
+			
+			<div class="span12">
+				<div class="info">
+}}
+
+h3. Mission
+\\
+Saudi Cloud's vision is to deliver IT in a green, secure and pay-as-you-use method, similar to the way we currently consume electricity! The Saudi Cloud technology ecosystem is the first credible platform that can make this vision a reality.
+\\
+Saudi Cloud's founders see a need to perceive IT in another way, a mind change in how companies are dealing with IT today. IT has become the most important element next to electricity and oil in our economy, since it helps us humans to make our lives easier, better organised and more efficient.
+\\
+Saudi Cloud developed an IT ecosystem that brings together a diverse yet complementary IT stack that offers more reliability, faster performance and more energy efficiency than any other technology group. Through Saudi Cloud, organisations can benefit from the industry's lowest total cost of ownership for the delivery of cloud computing.
+
+{{html:
+					
+					
+				</div><!-- /info -->
+				
+				
+				
+			
+			
+			
+			
+			</div><!-- /span12 -->
+			
+		</div><!-- /row -->
+		
+		
+		
+				
+			
+	</div><!-- /container -->
+
+		
+		</div>
+
+}}
+
+
+
+
+{{include:footer}}
+
+
+
+
+{{html:  
+	<!-- javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="/$$space/.files/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/$$space/.files/js/theme.js"></script>
+  
+  	
+}}
+
+
+
+
+
+
+
+

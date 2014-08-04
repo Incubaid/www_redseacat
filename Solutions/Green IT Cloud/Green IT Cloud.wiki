@@ -1,0 +1,30 @@
+h3. Green IT Cloud
+\\
+{{html:
+<iframe width="702" height="396" src="http://s.zntr.cc/scripts/iframe.htm?assetid=idIfbndH_UibDIAdvoA9pD" frameborder="0" webkitallowfullscreen="" allowfullscreen=""></iframe>
+}}
+
+Green IT Cloud enables large scale datacenters & telco’s to build their own PAAS & IAAS offerings.
+
+The Green IT Cloud IAAS solution brings high performant, hypervisor neutral and ultra scalable infrastucture: virtual servers, virtual desktops, virtual networking. It is compatible with market leaders like Amazon, meaning that when an application or server is made compatible with Amazon AWS EC2 or S3, it can be used immediately in the Green IT Cloud IAAS product.
+
+The Green IT Cloud IAAS solution is a complete end to end automation suite for delivering virtual servers, virtual desktops and virtual networking on the fly.
+
+The main functional components in the Green IT CloudCloud Automation are:
+
+
+* Cloud Control Center GUI
+* Cloud Automation Engine
+* Cloud Capacity Management with Units and IT Hours
+* Solutions Wizard Framework
+* Virtual Datacenter Solutions
+* Thin provisioning
+* Built-in Monitoring and Backup
+* Built-in Maintenance environment
+* Extensive API
+
+The Green IT CloudCloud Control Center showing the virtual private datacenter interface:
+
+\\
+
+!/$$space/.files/img/CMCVDC.png!

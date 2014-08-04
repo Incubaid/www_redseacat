@@ -1,0 +1,26 @@
+h3. Green IT Rack
+\\
+{{html:
+<iframe width="702" height="396" src="http://s.zntr.cc/scripts/iframe.htm?assetid=wkCgsg3FzUm86mZEYZAqXD" frameborder="0" webkitallowfullscreen="" allowfullscreen=""></iframe>
+}}
+
+Saudi Cloud`s Datacenter in a Rack (D-Rack) is a reliable, scalable and high-performing cloud infrastructure. It is a complete, turnkey cloud infrastructure solution for volume cloud deployments and delivers raw cloud capacity as compute units, caching units and storage units. The rack comprises compute, caching, storage, networking and power distribution equipment and an end-to-end management solution for infrastructure lifecycle management.
+
+It can be deployed in a single rack form factor, but scales to larger configurations and even across datacenters. Its management console comes with an open API for integration with any cloud management solution and seamless interworking with the provider’s operational environment.
+
+Saudi Cloud`s unique approach to cloud infrastructure reduces integration complexity and total-cost-of-ownership. By combining compute, network, caching, storage and power management in a single solution, Saudi Cloud’s rack reduces time-to-market as well as recurring operational costs. With Saudi Cloud`s DCIR, customers have the assurance of deploying a reliable, scalable, high performing and future-proof infrastructure for offering XaaS services to customers.
+
+Saudi Cloud delivers its customers cloud capacity in the form of cloud units:
+
+
+* CPU units: raw compute power expressed in compute units (CU) which are comparable to the units used by market lead-er AWS (Amazon Web Services).
+* Caching units: SSD caching for higher I/O performance, expressed in GB.
+* Storage units: a storage unit has a capacity of 1TB net storage space.
+
+Cloud Units enable our customers to define any cloud product/service (IaaS, PaaS or SaaS) and to sell them to their end customers (Residential, SME, Corporate)
+
+Those cloud units can be sold “as is” to your final customer on a per minute/hour basis. But they can also be used to define a wide variety of applications/products, ranging from basic cloud data storage to Virtual Desktops.
+
+Datacenter in a rack ships in a 2 rack form factor:
+\\
+!/$$space/.files/img/DCIR-Outside.png!

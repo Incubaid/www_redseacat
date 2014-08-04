@@ -1,0 +1,22 @@
+h3. Green IT Stor
+\\
+{{html:
+<iframe width="702" height="396" src="http://s.zntr.cc/scripts/iframe.htm?assetid=9_MzcRGpW0eYmiwsE2d0uD" frameborder="0" webkitallowfullscreen="" allowfullscreen=""></iframe>
+}}
+
+Green IT Stor
+
+
+The Green IT Stor system has been purpose-built to address the needs of online applications. It is the only storage system to employ the patent-pending BitSpread technology that enables storage of large-scale media files and objects with any level of reliability and availability, but without the overhead of RAID or replication. This provides the following key benefits for the large-scale data requirements unique to these applications:
+
+
+* Scalable online access for millions of users: Green IT Stor’s scalable http/REST interface provides a native http based access method for online applications. The system can scale the number of REST servers to address millions of users, plus provides a Single System View with access to any object from any server.
+* Unbreakable Storage: Green IT Stor provides any desired level of data reliability of availability – by tolerating any number of failures. It solves the reliability issues of RAID on high-density (multi-terabyte) disk drives. Storage Nodes within an Green IT Stor system can be distributed across multiple data centers to provide uninterrupted data access in the event of network or data center outages or unavailability.
+* Scalability with low management effort: Green IT Stor can be scaled with additional Green IT Stor storage nodes on the fly. The system auto-detects and utilizes new capacity, to scale the system without reduced manual intervention. Self-monitoring of disk & node-health plus self-healing reduces the need for intervention as the system grows.
+* The lowest storage overhead: Green IT Stor provides better protection from data loss without doubling the storage capacity. Therefore Green IT Stor will require much less data center rack / floor space than RAID and Replication based storage systems, in addition to lower Capital expenditure.
+* 90% less power consumption: Green IT Stor has the lowest storage overhead, leverages low-power disk drives, plus efficient storage enclosures to provide the most reliable storage for only 7 Watts per TB.
+* Green IT Stor provides 50-70% lower Total Cost of Ownership: lower Capex, lower data center floor space, lowest power and cooling costs, and lowest management overhead leads to an incredibly low TCO.
+
+
+\\
+!/$$space/.files/img/amplidata_bitspreadbenefit.png!
