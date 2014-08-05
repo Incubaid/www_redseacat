@@ -1,4 +1,4 @@
-@usedefault
+@template home_template
 
 {{include:slider}}
 
