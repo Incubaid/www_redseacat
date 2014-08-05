@@ -1,40 +1,75 @@
+$(function () {
+    $(window).scroll(function() {
+        if ($(".navbar").offset().top>30) {
+            $(".navbar-fixed-top").addClass("sticky");
+        }
+        else {
+            $(".navbar-fixed-top").removeClass("sticky");
+        }
+    });
 
-    // carousel demo
+    // Flex
+    if ($(".flexslider").length) {
+        $('.flexslider').flexslider();
+    }
 
-!function ($) {
+    servicesCircle.initialize();
 
-    $('#myCarousel').carousel()
-    
-}(window.jQuery)
+    staticHeader.initialize();
 
-/*Fady*/
-/*
-$(document).ready(function(){
-	var str=location.href.toLowerCase();
-		$('li.active').removeClass("active");
-		$('.nav li a').each(function() {
-	if (str.indexOf(this.href.toLowerCase()) > -1)
-	{
-		$(this).parents('li').addClass("active"); 
-	}
-	}); 
-		 
-})
-*/
-$(document).ready(function(){
-	var str=location.href.toLowerCase();
-		$('li.active').removeClass("active");
-	$('.nav li a').filter(function() {return this.href.toLowerCase() == str; }).parents('li').addClass('active');
-		 
-})
+    portfolioItem.initialize();
 
 
-/*Mohamed*/
-/*
-href = window.location.href;
-parts = href.split("/");
-currentPage = decodeURI(parts[parts.length -1]);
-menuitemsel = "li:has(a[href*='"+ currentPage +"']), li:has(a[href*='" + encodeURI(currentPage) + "'])";
-$("li.active").removeClass("active");
-$(menuitemsel).addClass("active");
-*/
+    // segun esto corrige el pedo del dropdown en tablets and such
+    // hay que testearlo!
+    $('.dropdown-toggle').click(function(e) {
+        e.preventDefault();
+        setTimeout($.proxy(function() {
+            if ('ontouchstart' in document.documentElement) {
+                $(this).siblings('.dropdown-backdrop').off().remove();
+            }
+        }, this), 0);
+    });
+});
+
+var portfolioItem = {
+    initialize: function () {
+        var $container = $("#portfolio_tem .left_box");
+        var $bigPics = $container.find(".big img");
+        var $thumbs = $container.find(".thumbs .thumb");
+
+        $bigPics.hide().eq(0).show();
+
+        $thumbs.click(function (e) {
+            e.preventDefault();
+            var index = $thumbs.index(this);
+            $bigPics.fadeOut();
+            $bigPics.eq(index).fadeIn();
+        });
+    }
+}
+
+var staticHeader = {
+    initialize: function () {
+        if ($(".navbar-static-top").length) {
+            $("body").css("padding-top", 0);
+        }
+    }
+}
+
+var servicesCircle = {
+    initialize: function () {
+        var $container = $(".services_circles");
+        var $texts = $container.find(".description .text");
+        var $circles = $container.find(".areas .circle");
+
+        $circles.click(function () {
+            var index = $circles.index(this);
+            $texts.fadeOut();
+            $texts.eq(index).fadeIn();
+            $circles.removeClass("active");
+            $(this).addClass("active");
+        });
+    }
+}
+
