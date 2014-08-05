@@ -11,45 +11,36 @@
             <span class="icon-bar"></span>
           </a>
           <a class="brand" href="#"><img src="/$$space/.files/img/logo.png" alt=""></a>
-		  <a class="arabicButton" href="http://10.101.172.50/saudicloud_ar"><img src="/$$space/.files/img/arabic.png" alt=""></a>
           <div class="nav-collapse collapse">
             <ul class="nav">
                 <li class="active"><a href="../$$space">Home</a></li>
+                <li><a href="../$$space/Ocean Diva">Ocean Diva</a></li>
+                <li><a href="../$$space/Ocean Diva">Ocean Flyer</a></li>
             	<li class="dropdown">
-            		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Solutions <b class="caret"></b></a>
+            		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Activities <b class="caret"></b></a>
 					<ul class="dropdown-menu">
-                    	<li><a href="../$$space/Green IT Cloud">Green IT Cloud</a></li>
-                    	<li><a href="../$$space/Green IT Rack">Green IT Rack</a></li>
-                    	<li><a href="../$$space/Green IT Datacenter">Green IT Datacenter</a></li>
-                    	<li><a href="../$$space/Green IT Cloud Desktop">Green IT Cloud Desktop</a></li>
-                    	<li><a href="../$$space/Green IT Box">Green IT Box</a></li>
-						<li><a href="../$$space/Green IT Stor">Green IT Stor</a></li>
+                        <li class="dropdown-submenu">
+                            <a href="../$$space/El Gouna" class="dropdown-toggle" data-toggle="dropdown-submenu">El Gouna <b class="caret"></b></a>
+                            <ul class="dropdown-submenu">
+                                <li><a href="../$$space/Dolphins">Dolphins</a></li>
+                                <li><a href="../$$space/Kiting">Kiting</a></li>
+                                <li><a href="../$$space/Wakeboarding">Wakeboarding</a></li>
+                                <li><a href="../$$space/Catamaran">Catamaran</a></li>
+                                <li><a href="../$$space/Buggy">Buggy</a></li>
+                                <li><a href="../$$space/Golf">Golf</a></li>
+                            </ul>
+                        </li>
+                    	<li class="dropdown-submenu">
+                            <a href="../$$space/Port Ghalib" class="dropdown-toggle" data-toggle="dropdown-submenu">Port Ghalib <b class="caret"></b></a>
+                            <ul class="dropdown-submenu">
+                                <li><a href="../$$space/Morning trips">Morning trips</a></li>
+                                <li><a href="../$$space/Sunset trips">Sunset trips</a></li>
+                                <li><a href="../$$space/Private trips">Private trips</a></li>
+                                <li><a href="../$$space/Event trips">Event trips</a></li>
+                            </ul>
+                        </li>
                     </ul>
-                </li>
-            	<li class="dropdown">
-            		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Why Saudi Cloud <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                    	<li><a href="../$$space/Saudi Cloud's Vision">Saudi Cloud's Vision</a></li>
-                    	<li><a href="../$$space/Enabling Telco Clouds">Enabling Telco Clouds</a></li>
-                    </ul>
-            	</li>
-            	<li class="dropdown">
-            		<a href="#" class="dropdown-toggle" data-toggle="dropdown">White Papers <b class="caret"></b></a>
-					<ul class="dropdown-menu">
-                    	<li><a href="../$$space/Telco Case Study">Telco Case Study</a></li>
-                    	<li><a href="../$$space/Cloud Desktop">Cloud Desktop</a></li>
-						<li><a href="../$$space/What is a Green DC">What is a Green DC</a></li>
-                    	<li><a href="../$$space/True Green Cloud DC">True Green Cloud DC</a></li>
-						<li><a href="../$$space/Building Cloud DCs">Building Cloud DCs</a></li>
-                    </ul>
-                </li>
-				<li>
-            		<a href="../$$space/Company" class="dropdown-toggle">Company</a>
-                </li>
-				<li>
-            		<a href="../$$space/Contacts" class="dropdown-toggle" >Contact</a>
-                 </li>
-            	
+                </li>            	
             </ul>
           </div><!--/.nav-collapse -->
         </div>

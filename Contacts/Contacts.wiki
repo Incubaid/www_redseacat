@@ -1,3 +1,0 @@
-@template template-for-contact
-
-Some text inside
