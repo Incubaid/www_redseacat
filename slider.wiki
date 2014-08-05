@@ -1,0 +1,3 @@
+{{html:
+<section class="slider bg"> </section>
+}}
