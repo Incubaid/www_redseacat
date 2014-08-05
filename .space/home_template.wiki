@@ -26,9 +26,7 @@
 
 {{include:menu}}
 
-{{div: class=container}}
 {content}
-{{div}}
 
 {{include:footer}}
 
