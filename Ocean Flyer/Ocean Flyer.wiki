@@ -1,1 +1,27 @@
-Ocean Flyer
+h2. Ocean Flyer
+{{div: class=row}}
+{{div2: class=col-sm-8 resp}}
+!/images/$$space/flyer1.jpg!
+{{div2}}
+{{div2: class=col-sm-3 resp}}
+!/images/$$space/flyer2.jpg!
+{{div2}}
+{{div}}
+{{div: class=row}}
+{{div2: class=col-sm-12}}
+\\
+Who said that you have to be a professional diver, or even know how to swim to be able to enjoy the amazing underwater scenery of the Red Sea? Comfortably seated in a slowly cruising glass bottomed boat, you can explore underwater treasures. You'll be amazed by the water clarity, the richness of the corals underneath and the marine life diversity on such a shallow level.
+
+Apart from being quite cheap, the trip is a perfect family attraction; children, parents and elderly people will all enjoy it equally. It is also the perfect occasion to make great souvenir pictures; on your way back to shore you'll be able to strike the pose with a beautiful panoramic view of the coast in the background.
+\\
+{{div2}}
+{{div}}
+{{div: class=row}}
+{{div2: class=col-sm-6 resp}}
+!/images/$$space/flyer3.jpg!
+{{div2}}
+{{div2: class=col-sm-6 resp}}
+!/images/$$space/flyer4.jpg!
+{{div2}}
+{{div}}
+\\
