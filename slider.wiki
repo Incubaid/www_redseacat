@@ -1,3 +1,32 @@
 {{html:
-<section class="slider bg"> </section>
+<head>
+	<style type="text/css">
+		.tripButton #CDSWIDFRR {
+			font: normal 11px Verdana,"Bitstream Vera Sans",Arial,Helvetica,sans-serif !important;
+			color: #000!important;
+			background-color: #ffffff!important;
+			overflow: hidden!important;
+			width: 120px!important;
+			margin: 10px!important;
+			padding: 0 !important;
+			background: url("/img2/badges/badgeBottom_150.gif") 0 100% no-repeat!important;
+			text-align: center!important;
+			-webkit-border-radius: 10px!important;
+			-moz-border-radius: 10px!important;
+			border-radius: 10px!important;
+			border-bottom: 1px solid #DFDFDF!important;
+			box-shadow: 0px 0px 5px #888888;
+			}
+		.tripButton #CDSWIDFRR a img { width: 100%!important;}
+		.tripButton .widFRRCopy { padding: 0 0 10px 0 !important;}
+	</style>
+</head>
+<section class="slider bg">
+	<div class="tripButton">
+	}}
+		
+		{{include:tripadvisor_recommend2}}
+	{{html:	
+	</div>
+</section>
 }}
