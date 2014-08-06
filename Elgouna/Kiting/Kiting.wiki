@@ -1,0 +1,8 @@
+@usedefault
+
+
+h2. Kiting
+
+{{html:
+<iframe width="800" height="600" src="http://www.youtube.com/embed/yNid18ojDXA?rel=0" frameborder="0" allowfullscreen></iframe>
+}}

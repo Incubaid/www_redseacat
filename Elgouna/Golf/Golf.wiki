@@ -1,0 +1,6 @@
+@usedefault
+
+h2. Golf
+
+{{gallery_bs3}}
+

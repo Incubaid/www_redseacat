@@ -1,5 +1,0 @@
-@usedefault
-
-{{gallery}}
-
-Catamaran
