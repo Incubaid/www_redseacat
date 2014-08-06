@@ -1,5 +1,5 @@
 {{html:
-<footer id="footer" class="footerBG">
+<footer id="footer">
   <div class="container">
     
     <div class="row credits">
