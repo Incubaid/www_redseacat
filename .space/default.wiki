@@ -34,6 +34,7 @@
 
 {{html:
 <!-- Scripts --> 
+<script src="/$$space/.files/js/jquery.isotope.min.js"></script>
 <script src="/$$space/.files/js/theme.js"></script> 
 <script src="/$$space/.files/js/index-slider.js"></script>
 }}

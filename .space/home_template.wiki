@@ -23,58 +23,7 @@
 
 }}
 
-# This uses a different CSS class than what we have in menu.wiki
-
-{{html:
-
-<div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a href="/$$space/" class="navbar-brand logo"> <img src="/$$space/.files/img/logo.png"> </a>
-            </div>
-          <div class="collapse navbar-collapse navbar-ex1-collapse" role="navigation">
-            <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="../$$space">Home</a></li>
-                <li><a href="../$$space/Ocean Diva">Ocean Diva</a></li>
-                <li><a href="../$$space/Ocean Flyer">Ocean Flyer</a></li>
-                <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Activities <b class="caret"></b></a>
-                                        <ul class="dropdown-menu">
-                        <li class="dropdown-submenu">
-                            <a href="../$$space/El Gouna" class="dropdown-toggle" data-toggle="dropdown-submenu">El Gouna</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../$$space/Dolphins">Dolphins</a></li>
-                                <li><a href="../$$space/Kiting">Kiting</a></li>
-                                <li><a href="../$$space/Wakeboarding">Wakeboarding</a></li>
-                                <li><a href="../$$space/Catamaran">Catamaran</a></li>
-                                <li><a href="../$$space/Buggy">Buggy</a></li>
-                                <li><a href="../$$space/Golf">Golf</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown-submenu">
-                            <a href="../$$space/Port Ghalib" class="dropdown-toggle" data-toggle="dropdown-submenu">Port Ghalib</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../$$space/Morning trips">Morning trips</a></li>
-                                <li><a href="../$$space/Sunset trips">Sunset trips</a></li>
-                                <li><a href="../$$space/Private trips">Private trips</a></li>
-                                <li><a href="../$$space/Event trips">Event trips</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-    </div>
-
-}}
-
+{{include:menu}}
 
 {content}
 

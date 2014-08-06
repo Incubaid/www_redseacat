@@ -5,7 +5,8 @@ body {
   position: relative;
   -webkit-font-smoothing: antialiased;
   font-family: 'Lato', sans-serif !important;
-  line-height: 20px; }
+  font-size: 16px;
+  line-height: 23px; }
   body h1, body h2, body h3, body h4, body h5, body h6, body .h1, body .h2, body .h3, body .h4, body .h5, body .h6 {
     font-family: 'Lato', sans-serif !important;
     font-weight: bold;
@@ -34,7 +35,7 @@ header {
 /* Navbar
 -------------------------------------------------- */
 .navbar {
-  padding: 10px 0px 10px 0px; }
+  padding: 0; }
   .navbar.navbar-inverse {
     background: rgba(0, 0, 0, 0.4);
     border-bottom: 1px solid #585858; }
@@ -242,7 +243,7 @@ header {
       color: #a6a6a7;
       font-style: italic;
       text-align: center;
-      margin-top: 5px; }
+      }
     #footer .credits .socialicons {
       background: url("../../img/socialicons.png") no-repeat;
       width: 265px;
