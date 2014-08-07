@@ -3,8 +3,20 @@ h2. Ocean Flyer
 	{{div2: class=col-sm-8 resp}}
 	!/images/$$space/flyer1.jpg!
 	{{div2}}
-	{{div2: class=col-sm-4 resp centerImg}}
-	!/images/$$space/flyer2.jpg!
+	{{div2: class=col-sm-3 resp centerImg blue}}
+   	{{html:
+	<div id="TA_certificateOfExcellence602" class="TA_certificateOfExcellence">
+<ul id="7LoHMvJL2" class="TA_links 2YWPtUDzUm">
+<li id="squ4J91Uq" class="2Qy3kFNPeWL3">
+<a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
+</li>
+</ul>
+</div>
+<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=602&amp;locationId=2085999&amp;lang=en_US&amp;year=2014&amp;langversion=2"></script>
+}}
+	h2. Reserve your experience now!
+  	Call: 0100 010 2952
+	Email: info@redseacat.com
 	{{div2}}
 {{div}}
 {{div: class=row}}
