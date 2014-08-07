@@ -1,6 +1,0 @@
-@usedefault
-
-h2. Dolphins
-
-{{gallery_bs3}}
-

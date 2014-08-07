@@ -20,3 +20,6 @@ h2 {color: #ef3e40 !important;font-weight: 300 !important;font-style: italic;fon
 .resp img {display: block;height: auto;max-width: 100%; }
 .tripButton { position: absolute; right: 790px; top: 184px;}
 .slider {position: relative;}
+.centerImg p img { margin: 0 auto;}
+.blue { background-color: #6786b2; color: whitesmoke; font-size: 15px; border-radius: 0;}
+.well.blue h3 { text-transform: upper; font-size: 17px; line-height: 1em; margin: 0; }
