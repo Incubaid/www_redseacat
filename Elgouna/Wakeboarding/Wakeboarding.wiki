@@ -1,6 +1,0 @@
-@usedefault
-
-h2. Wakeboarding
-
-{{gallery_bs3}}
-

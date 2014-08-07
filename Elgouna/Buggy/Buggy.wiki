@@ -1,7 +1,0 @@
-@usedefault
-
-h2. Buggy
-
-{{gallery_bs3}}
-
-
