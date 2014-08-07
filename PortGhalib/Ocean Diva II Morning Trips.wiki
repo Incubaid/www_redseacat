@@ -1,0 +1,35 @@
+@usedefault
+
+h2. Morning Trips
+{{div: class=row}}
+    {{div2: class=col-sm-6 resp}}
+    !/$$space/.files/img/diva1.jpg!
+    {{div2}}
+    {{div2: class=col-sm-3 resp centerImg}}
+    !/$$space/.files/img/calendar.jpg!
+    {{div2}}
+    {{div2: class=col-sm-3}}
+        {{html:
+        <ul class="infoSection">
+            <li>
+                <span><img src="/$$space/.files/img/green.jpg"></span> Available
+            </li>
+            <li>
+                <span><img src="/$$space/.files/img/red.jpg"></span> Not Available
+            </li>
+            <li class="buttonList"><a class="mainButton" href="#">Book now</a></li>
+        </ul>
+
+        }}
+    {{div2}}
+{{div}}
+{{div: class=row}}
+    {{div2: class=col-sm-12}}
+    \\
+        The Ocean Diva is a fast, stylish, and modern catamaran. With its low draft, it can enter into very shallow reefs. You will sail in front of Port Ghalib, and anchor nearby for swimming and first-class snorkeling among shoals of colorful fish. The skipper and crew will look after your every need, from supplying food and drinks, to setting you up with snorkeling gear, and offering a helping hand when you need to climb back on board.
+    \\
+    {{div2}}
+{{div}}
+
+\\
+
