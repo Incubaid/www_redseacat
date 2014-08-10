@@ -1,66 +1,53 @@
 h2. Ocean Flyer
-{{div: class=row}}
-	{{div2: class=col-sm-8 resp}}
+@row
+	@col 8
 	!/images/$$space/flyer1.jpg!
-	{{div2}}
-	{{div2: class=col-sm-3 resp centerImg blue}}
-   	{{html:
-	<div id="TA_certificateOfExcellence602" class="TA_certificateOfExcellence">
-<ul id="7LoHMvJL2" class="TA_links 2YWPtUDzUm">
-<li id="squ4J91Uq" class="2Qy3kFNPeWL3">
-<a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
-</li>
-</ul>
-</div>
-<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=602&amp;locationId=2085999&amp;lang=en_US&amp;year=2014&amp;langversion=2"></script>
-}}
-	h2. Reserve your experience now!
-  	Call: 0100 010 2952
-	Email: info@redseacat.com
-	{{div2}}
-{{div}}
-{{div: class=row}}
-	{{div2: class=col-sm-12}}
-	\\
+	@colend
+	@col 4 
+	!/images/$$space/ta_badge.png!
+	@colend
+@rowend
+@row
+	@col 12
+	
 	Who said that you have to be a professional diver, or even know how to swim to be able to enjoy the amazing underwater scenery of the Red Sea? Comfortably seated in a slowly cruising glass bottomed boat, you can explore underwater treasures. You'll be amazed by the water clarity, the richness of the corals underneath and the marine life diversity on such a shallow level.
 
 	Apart from being quite cheap, the trip is a perfect family attraction; children, parents and elderly people will all enjoy it equally. It is also the perfect occasion to make great souvenir pictures; on your way back to shore you'll be able to strike the pose with a beautiful panoramic view of the coast in the background.
-	\\
-	{{div2}}
-{{div}}
-{{div: class=well blue}}
-    {{div3: class=row}}
-	{{div2: class=col-sm-3}}
-            !/images/$$space/box1.jpg!
-	{{div2}}
-        {{div2: class=col-sm-3}}
+	
+	@colend
+@rowend
+@block well blue
+    @row
+    	@col 3
+                !/images/$$space/box1.jpg!
+    	@colend
+        @col 3
             h3. Be Unique
             Enjoy one of the coolest looking boats in the Red Sea!
-        {{div2}}
-        {{div2: class=col-sm-3}}
+        @colend
+        @col 3
             !/images/$$space/box2.jpg!
-        {{div2}}
-        {{div2: class=col-sm-3}}
+        @colend
+        @col 3
             h3. Get Up Close
             Be a part of the underwater action with out famous glass boat bottom
-        {{div2}}
-    {{div3}}
-    {{div3: class=row}}
-        {{div2: class=col-sm-3}}
+        @colend
+    @rowend
+    @row
+        @col 3
             !/images/$$space/box3.jpg!
-        {{div2}}
-        {{div2: class=col-sm-3}}
+        @colend
+        @col 3
             h3. Have it your way
             Customize your trip to suit your needs with food, drink, music and more.
-        {{div2}}
-        {{div2: class=col-sm-3}}
+        @colend
+        @col 3
             !/images/$$space/box4.jpg!
-        {{div2}}
-        {{div2: class=col-sm-3}}
+        @colend
+        @col 3
             h3. Fun for all
             The perfect day out for families and friends up to 10 people!
-        {{div2}}
-    {{div3}}
+        @colend
+    @rowend
+@blockend
 
-{{div}}
-\\

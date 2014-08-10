@@ -1,0 +1,16 @@
+.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12 { float: left; position: relative; min-height: 1px; padding: 0 15px; }
+.span1 { width: 8.333333333333332%; }
+.span2 { width: 16.666666666666664%; }
+.span3 { width: 25%; }
+.span4 { width: 33.33333333333333%; }
+.span5 { width: 41.66666666666667%; }
+.span6 { width: 50%; }
+.span7 { width: 58.333333333333336%; }
+.span8 { width: 66.66666666666666%; }
+.span9 { width: 75%; }
+.span10 { width: 83.33333333333334%; }
+.span11 { width: 91.66666666666666%; }
+.span12 { width: 100%; }
+.row-fluid { margin: 0 -15px; }
+.row-fluid:before, .row-fluid:after {display: table; line-height: 0; content: ""; }
+.row-fluid:after { clear: both; }
