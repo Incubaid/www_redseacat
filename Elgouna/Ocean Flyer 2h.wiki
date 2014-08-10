@@ -1,6 +1,6 @@
 @usedefault
 
-h2. 2 hour Trips
+h2. 2 hours Trips
 @row
     @col 6 resp
         !/$$space/.files/img/flyer_430x210.jpg!
