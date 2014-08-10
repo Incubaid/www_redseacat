@@ -237,10 +237,10 @@
 
 /* Features
 -------------------------------------------------- */
-#features {
+#features, .features {
   margin-top: 20px;
   margin-bottom: -20px; }
-  #features .feature {
+  #features .feature, .features .feature {
     /*border-bottom: 1px solid #e0e0e0;*/
     margin-bottom: 65px; }
     #features .feature .info h3 {
@@ -523,7 +523,7 @@
 #cc-tp-sidebar { display: inline-block;float: left;}
 #cc-m-7283983568 { display: inline-block;margin: 20px 0 0 0;width: 280px;}
 .widFRR { margin-left: 0 !important;}
-#team {
+#team, .team {
 padding: 35px 0 25px;
 margin: 0;
 background: #f7f7f7;
