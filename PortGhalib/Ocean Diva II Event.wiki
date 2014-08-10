@@ -1,0 +1,26 @@
+@usedefault
+
+h2. Event Trips
+@row
+    @col 6 resp
+        !/$$space/.files/img/diva1.jpg!
+    @colend
+    @col 3
+        !/$$space/.files/img/calendar.jpg!
+    @colend
+    @col 3
+        *- class=infoSection
+        * !/$$space/.files/img/green.jpg! Available
+        * !/$$space/.files/img/red.jpg! Not Available
+        * [Book now | # | id=mainButton | class = mainButton]
+    @colend
+@rowend
+@row
+    @col 12
+    
+    The Ocean Diva is a fast, stylish, and modern catamaran. With its low draft, it can enter into very shallow reefs. You will sail in front of Port Ghalib, and anchor nearby for swimming and first-class snorkeling among shoals of colorful fish. The skipper and crew will look after your every need, from supplying food and drinks, to setting you up with snorkeling gear, and offering a helping hand when you need to climb back on board.
+    
+    @colend
+@rowend
+
+
