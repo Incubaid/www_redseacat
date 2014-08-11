@@ -1,6 +1,6 @@
 h2. Ocean Flyer
 @row
-	@col 8
+	@col 8 resp
 	!/images/$$space/flyer1.jpg!
 	@colend
 	@col 4 
