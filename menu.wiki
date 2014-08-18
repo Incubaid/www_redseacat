@@ -20,38 +20,9 @@
             <li><a href="../$$space/Ocean Flyer">Ocean Flyer</a></li>
             <li class="dropdown">
                 <a href="../$$space/Gouna Day Trips" class="dropdown-toggle" data-toggle="dropdown">El Gouna <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    <li class="dropdown-submenu">
-                        <a href="../$$space/Ocean Diva Gouna" class="dropdown-toggle" data-toggle="dropdown">Ocean Diva</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/$$space/Ocean Diva I Morning">Morning Trips</a></li>
-                            <li><a href="/$$space/Ocean Diva I Evening">Evening Trips</a></li>
-                            <li><a href="/$$space/Ocean Diva I Event">Event Trips</a></li>
-                            <li><a href="/$$space/Ocean Diva I Private">Private Trips</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown-submenu">
-                        <a href="../$$space/Ocean Flyer Gouna" class="dropdown-toggle" data-toggle="dropdown">Ocean Flyer</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/$$space/Ocean Flyer 2h">2 hours Trips</a></li>
-                            <li><a href="/$$space/Ocean Flyer Private">Private Trips</a></li>
-                        </ul>
-                    </li>
-                </ul>
             </li>
-        	<li class="dropdown">
+            <li class="dropdown">
                 <a href="../$$space/Port Ghalib" class="dropdown-toggle" data-toggle="dropdown">Port Ghalib <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    <li class="dropdown-submenu">
-                        <a href="../$$space/Ocean Diva Port Ghalib" class="dropdow-toggle" data-toggle="dropdown">Ocean Diva</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/$$space/Ocean Diva II Morning">Morning Trips</a></li>
-                            <li><a href="/$$space/Ocean Diva II Evening">Evening Trips</a></li>
-                            <li><a href="/$$space/Ocean Diva II Event">Event Trips</a></li>
-                            <li><a href="/$$space/Ocean Diva II Private">Private Trips</a></li>
-                        </ul>
-                    </li>
-                </ul>
             </li>
       </div><!--/.nav-collapse -->
     </div>
