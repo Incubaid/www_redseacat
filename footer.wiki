@@ -4,8 +4,26 @@
     
     <div class="row credits">
       <div class="col-md-12">
-        <div class="row copyright">
-          <div class="col-md-12"> © 2014 Red Sea Cat LLC. All rights reserved. <a href="#">Privacy Policy </a></div>
+        <div class="row">
+          <div class="col-md-4 half1"> © 2014 Red Sea Cat LLD. All Rights Reserved.</div>
+          <div class="col-md-3 half2">
+	          <ul>
+	          	<li><a href="#"><img src="/images/$$space/follow1.jpg"></a><li>
+	          	<li><a href="#"><img src="/images/$$space/follow2.jpg"></a><li>
+	          	<li><a href="#"><img src="/images/$$space/follow3.jpg"></a><li>
+	          	<li><a href="#"><img src="/images/$$space/follow4.jpg"></a><li>
+	          	<li><a href="#"><img src="/images/$$space/follow5.jpg"></a><li>
+	          </ul>
+      	  </div>
+      	  <div class="col-md-5 half3">
+	          <ul>
+	          	<li><a href="#">Home </a><li>
+	          	<li><a href="#">Activities</a><li>
+	          	<li><a href="#"> El Gouna</a><li>
+	          	<li><a href="#">Port Ghalib </a><li>
+	          	<li><a href="#">Contact Us</a><li>
+	          </ul>
+      	  </div>
         </div>
       </div>
     </div>
