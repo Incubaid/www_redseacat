@@ -1,0 +1,71 @@
+@template activities_template
+
+{{carousel_bs3:
+/images/$$space/slider3.jpg
+/images/$$space/slider3.jpg
+/images/$$space/slider3.jpg
+/images/$$space/slider3.jpg
+}}
+
+
+@block
+  @col 12 Bar
+    {{include:gouna_activities_menu}}
+  @colend
+  @col9 paddingB
+    @row row avtivityDisc
+    h2. Glass Bottom Boat
+    Join us on board our famous hyrofoil glass bottom boat!
+    This is a trip with a difference. Our speedy and unique boat is packed with features to allow you to expolore the reef in your own way!
+    {{html: <hr> }}
+    @rowend
+
+    @row row 
+        h4. A fresh perspective on the Red Sea!
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Our glass bottom experience is truely unique!
+        Enjoy the power of our hydrofoil glass bottom boat as you're sped to the best locations in the area.
+        With comfortable space for up to ten people, you can enjob the best of the Red Sea's underwater world without getting wet!
+    @colend
+    @rowend
+
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Our glass bottom boat is complete with a full range of snorkel equipment!
+        So you have the choice, explore the reef in your own way, or wave to your family through our unique viewing portal.
+        Whatever you decide, the reefs of the Red Sea are yours to explore!
+    @colend
+    @rowend
+
+    @rowend
+  @colend
+
+  @col3 borderL
+    @col12
+      {{redsea_booking: category_id:4 | item_id:1}}
+
+      @row activList
+      
+        h4. Trip Details
+        * Snorkel equipment included
+        * Ten people maximum
+        * Short trips & day trips
+        * Private charters available
+      
+      @rowend
+      @row activList pay
+      h4. We accept
+
+      [!/images/$$space/pay1.jpg! | #] [!/images/$$space/pay2.jpg! | #] [!/images/$$space/pay3.jpg! | #] [!/images/$$space/pay4.jpg! | #]
+      
+      {{div}}
+    @colend
+  @colend
+@blockend  

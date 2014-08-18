@@ -1,0 +1,70 @@
+@template activities_template
+
+{{carousel_bs3:
+/images/$$space/slider2.jpg
+/images/$$space/slider2.jpg
+/images/$$space/slider2.jpg
+/images/$$space/slider2.jpg
+}}
+
+
+@block
+  @col 12 Bar
+    {{include:gouna_activities_menu}}
+  @colend
+  @col9 paddingB
+    @row row avtivityDisc
+    h2. Sunset Cruises
+    There's nothing quite like a sunset on the Red Sea!
+    Enjoy our usual first class service as we sail to clear turquoise waters for a late afternoon swim.
+    Be entertained with our superb music system or relax with chmpagne as our team take care of your every need!
+    {{html: <hr> }}
+    @rowend
+
+    @row row 
+        h4. Relax in style
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Try our delicious range of canapes, producted locally and served by our experienced stewardess team.
+        Our crew are dedicated to prociding the highest level of service to ensure your safety and comfort while enjoying the Red Sea at its best.
+    @colend
+    @rowend
+
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        You can choose from our rage of champagne, beets and wine to set the mood for your sunset experience.
+        Soft drinks are also available on board. Whatever your needs, our helpful stewardess team are on hand to take care of you.
+    @colend
+    @rowend
+
+    @rowend
+  @colend
+
+  @col3 borderL
+    @col12
+      {{redsea_booking: category_id:3 | item_id:1}}
+
+      @row activList
+      
+        h4. Trip Details
+        * Delicious range of canapes
+        * Devereges included
+        * Swim in the turqoise waters
+        * Perfect for couples
+      
+      @rowend
+      @row activList pay
+      h4. We accept
+
+      [!/images/$$space/pay1.jpg! | #] [!/images/$$space/pay2.jpg! | #] [!/images/$$space/pay3.jpg! | #] [!/images/$$space/pay4.jpg! | #]
+      
+      {{div}}
+    @colend
+  @colend
+@blockend  

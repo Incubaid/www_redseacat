@@ -1,0 +1,42 @@
+{{hasbootstrapcss}}
+{{hasbootstrapjs}}
+{{htmlhead:
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- Styles -->
+<link rel="stylesheet" href="/$$space/.files/css/bootstrap/bootstrap.min.css"  />
+<link rel="stylesheet" href="/$$space/.files/css/compiled/bootstrap-overrides.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/$$space/.files/css/compiled/theme.css" />
+<link href='//fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/$$space/.files/css/compiled/index.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/$$space/.files/css/lib/animate.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/$$space/.files/css/b2to3.css" />
+<link rel="stylesheet" href="/$$space/.files/css/custom.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/$$space/.files/css/activities.css" type="text/css" />
+<!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="//code.jquery.com/jquery-latest.js"></script> 
+<script src="/$$space/.files/js/bootstrap.min.js"></script> 
+
+}}
+
+{{title:Ocean Diva - $$page}}
+
+
+{{include:menu}}
+
+{{div: class=activity}}
+{content}
+{{div}}
+
+{{include:footer}}
+
+{{html:
+<!-- Scripts --> 
+<script src="/$$space/.files/js/jquery.isotope.min.js"></script>
+<script src="/$$space/.files/js/theme.js"></script> 
+<script src="/$$space/.files/js/index-slider.js"></script>
+}}

@@ -1,0 +1,9 @@
+{{html: 
+<ul class="menuTrip">
+    <li><a href="/$$space/Gouna Day Trips">Day Trips</a></li>
+    <li><a href="/$$space/Gouna Sunset Cruises">Sunset Cruises</a></li>
+    <li><a href="/$$space/Gouna Party Cruises">Party Cruises</a></li>
+    <li><a href="/$$space/Gouna Glass Bottom">Glass Bottom</a></li>
+    <li><a href="/$$space/Gouna Special Events">Special Events</a></li>
+</ul>
+}}

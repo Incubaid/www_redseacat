@@ -1,0 +1,17 @@
+{{html:
+<script type="text/javascript" src="//redseacat.checkfront.com/lib/interface--30.js"></script>
+<!-- CHECKFRONT BOOKING PLUGIN v23-->
+<div id="CHECKFRONT_WIDGET_01"><p id="CHECKFRONT_LOADER" style="background: url('//redseacat.checkfront.com/images/loader.gif') left center no-repeat; padding: 5px 5px 5px 20px">Searching Availability...</p></div>
+<script>
+new CHECKFRONT.Widget ({
+host: 'redseacat.checkfront.com',
+target: 'CHECKFRONT_WIDGET_01',
+item_id: '1',
+category_id: '3',
+options: 'hidesearch',
+style: 'color: rgb(0, 0, 0) ;',
+provider: 'droplet'
+}).render();
+</script>
+<noscript><a href="https://redseacat.checkfront.com/reserve/" style="font-size: 16px">Continue to Secure Booking System &raquo;</a></noscript>
+}}

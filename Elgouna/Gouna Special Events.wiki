@@ -1,0 +1,69 @@
+@template activities_template
+
+{{carousel_bs3:
+/images/$$space/slider5.jpg
+/images/$$space/slider5.jpg
+/images/$$space/slider5.jpg
+/images/$$space/slider5.jpg
+}}
+
+
+@block
+  @col 12 Bar
+    {{include:gouna_activities_menu}}
+  @colend
+  @col9 paddingB
+    @row row avtivityDisc
+    h2. Special Events
+    Whether it's a birthday, wedding or corporate event, Ocean Diva are here to help make your experience special!
+    When chartering our famous catamaran you are free to choose all the options to suit the occasion.
+    {{html: <hr> }}
+    @rowend
+
+    @row row 
+        h4. Have it your way
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        The choice is yours when it comes to planning your private events. Our Ocean Diva catamaran can receive up to 35 of your valued guests and our stylish powerboat can entertain up to ten.
+        The choice is yours when chartering one of our quality products!
+    @colend
+    @rowend
+
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Team building days, business events or just a good old party!
+        Our team are on hand to cater for your every need. From music and entertainment requests to food and drink options, we aim to provide you with everything you need to make the occasion memorable!
+    @colend
+    @rowend
+
+    @rowend
+  @colend
+
+  @col3 borderL
+    @col12
+      {{redsea_booking: category_id:3 | item_id:8}}
+
+      @row activList
+      
+        h4. Trip Details
+        * Glass Bottom max. 10 persons
+        * Catamaran max. 35 persons
+        * Full customizable trips
+        * First class service
+      
+      @rowend
+      @row activList pay
+      h4. We accept
+
+      [!/images/$$space/pay1.jpg! | #] [!/images/$$space/pay2.jpg! | #] [!/images/$$space/pay3.jpg! | #] [!/images/$$space/pay4.jpg! | #]
+      
+      {{div}}
+    @colend
+  @colend
+@blockend  
