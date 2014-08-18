@@ -74,10 +74,10 @@ var servicesCircle = {
 }
 
 
-    $(document).ready(function(){
+$(document).ready(function(){
     var str=location.href.toLowerCase();
-        $('li.active').removeClass("active");
-    $('.nav li a').filter(function() {return this.href.toLowerCase() == str; }).parents('li').addClass('active');
+    $('li.active').removeClass("active");
+    $('.menuTrip li a, .nav li a').filter(function() {return this.href.toLowerCase() == str; }).parents('li').addClass('active');
 
 
     $('#links').imagesLoaded(function() {

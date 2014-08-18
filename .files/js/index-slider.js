@@ -285,7 +285,8 @@ $(document).ready(function () {
             $(".slide.previous img").not(".fade").each(function () {
                 // var l = parseInt($(this).attr("class").split(" ")[2].replace("st", ""));
                 var l = 400;
-                var k = parseInt($(this).attr("class").split(" ")[2].replace("sp", ""));
+                //var k = parseInt($(this).attr("class").split(" ")[2].replace("sp", ""));
+                var k = 400;
                 if ($("#feature_slider").hasClass("scrollLeft")) {
                     $(this).animate({
                         left: $(window).width() + l
