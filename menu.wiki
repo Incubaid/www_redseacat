@@ -16,14 +16,8 @@
       <div class="collapse navbar-collapse navbar-ex1-collapse" role="navigation">
         <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="../$$space">Home</a></li>
-            <li><a href="../$$space/Ocean Diva">Ocean Diva</a></li>
-            <li><a href="../$$space/Ocean Flyer">Ocean Flyer</a></li>
-            <li class="dropdown">
-                <a href="../$$space/Gouna Day Trips" class="dropdown-toggle" data-toggle="dropdown">El Gouna <span class="caret"></span></a>
-            </li>
-            <li class="dropdown">
-                <a href="../$$space/Port Ghalib" class="dropdown-toggle" data-toggle="dropdown">Port Ghalib <span class="caret"></span></a>
-            </li>
+            <li><a href="../$$space/Day Trips">Ocean Diva</a></li>
+            <li><a href="../$$space/Glass Bottom">Ocean Flyer</a></li>
       </div><!--/.nav-collapse -->
     </div>
 </div>

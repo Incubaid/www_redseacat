@@ -1,0 +1,22 @@
+@usedefault
+
+h2. Ocean Diva Movies
+
+
+{{video_gallery:
+KIz-y8-iiP4:Ocean Diva The official Movie
+1wyMkTWcNDU:Ocean Diva doing 15 knots on the red sea
+S7bgFS0XZgc:Dolphins along side our catamaran The Ocean Diva
+tFsHhSctSKU:All That Matters is TODAY
+DbzuSJWF_Fo:Peyton on Ocean Diva
+o7tYiyx6y9E:Peyton out of Abu Tig El Gouna
+QO1_FVpNsHU:Ocean Diva Sea Breeze
+dodmKWZc4Ao:Dolphins in El Gouna
+zv4mHHiV_QE:Party on Ocean Diva
+C04bPIyojNI:Ocean Diva sailing catamaran back at the dock great party!
+m13L8UiIuuo:Catamaran trip El Gouna
+JR8yKOyKb6w:Vacation in El Gouna (Egypt) 2011
+1JDWGAdHLYc:Catamaran trip on the Red Sea Egypt by Mikel Neij
+2RsuLSnVAhQ:Party Time Again !!
+th6xiMTxXtE:Ocean Diva
+}}

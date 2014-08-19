@@ -1,0 +1,77 @@
+@template activities_template
+
+{{carousel_bs3:
+/images/$$space/slider1.jpg
+/images/$$space/slider2.jpg
+/images/$$space/slider4.jpg
+/images/$$space/slider5.jpg
+}}
+
+
+@block
+  @col 12 Bar
+    {{include:ocean_diva_activities_menu}}
+  @colend
+  @col9 paddingB
+    @row row avtivityDisc
+    h2. Day Trips
+    A true adventure for both adults and kids-alike!
+    Help out the crew or sit back and enjoy our first-class service as we hoist the mainsail to begin our Red Sea sailing experience!
+    With regular dolphin sightings and prime locations for snorkeling, you're sure to find excitement around every corner!
+    {{html: <hr> }}
+    @rowend
+
+    @row row 
+        h4. Something for everyone
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        We will give you everything you need to enjoy a perfect day's sailing. Full snorkel equipment is available on board as well as life jackets and a safety boat for that extra piece of mind!
+        Our team will guide you to the best reefs and dolphin sites.
+        With Ocean Divas super stable design you're sure to enjoy smooth sailing!
+    @colend
+    @rowend
+
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Relaxation is just as important to us as adventure!
+        The Ocean Diva is equipped with large nets over the water to help you soak up the sun in comfort. Our team will make sure you don't go thirst with soft drinks and alcohol available as well as lunch ob board.
+        So let us take care of you as you enjoy the trip of a lifetime!
+    @colend
+    @rowend
+
+    @rowend
+  @colend
+
+  @col3 borderL
+    @col12
+      {{redsea_booking: category_id:3}}
+
+      @row activList
+
+        * [Ocean Diva Images]
+        * [Ocean Diva Videos]
+        
+        @LF
+        
+        h4. Trip Details
+        * Snorkel equipment included
+        * Lunch & soft drinks included
+        * Perfect for families
+        * Full safety equipment
+      
+      @rowend
+      @row activList pay
+      h4. We accept
+
+      [!/images/$$space/pay1.jpg! | #] [!/images/$$space/pay2.jpg! | #] [!/images/$$space/pay3.jpg! | #] [!/images/$$space/pay4.jpg! | #]
+      
+      {{div}}
+    @colend
+  @colend
+@blockend  

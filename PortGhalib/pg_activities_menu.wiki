@@ -1,0 +1,8 @@
+{{html: 
+<ul class="menuTrip">
+    <li><a href="/$$space/PG Day Trips">Day Trips</a></li>
+    <li><a href="/$$space/PG Sunset Cruises">Sunset Cruises</a></li>
+    <li><a href="/$$space/PG Party Cruises">Party Cruises</a></li>
+    <li><a href="/$$space/PG Special Events">Special Events</a></li>
+</ul>
+}}

@@ -1,0 +1,6 @@
+{{html: 
+<ul class="menuTrip">
+    <li><a href="/$$space/Glass Bottom">Glass Bottom</a></li>
+    <li><a href="/$$space/Special Events Glass">Special Events</a></li>
+</ul>
+}}

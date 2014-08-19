@@ -1,0 +1,74 @@
+@template activities_template
+
+{{carousel_bs3:
+/images/$$space/slider4.jpg
+/images/$$space/slider1.jpg
+/images/$$space/slider2.jpg
+/images/$$space/slider5.jpg
+}}
+
+
+@block
+  @col 12 Bar
+    {{include:ocean_diva_activities_menu}}
+  @colend
+  @col9 paddingB
+    @row row avtivityDisc
+    h2. Party Cruise
+    Join the Ocean Diva team for one of our legendary party cruises!
+    There's nothing better than enjoying your favorite tunes while cruising in the warm breeze of the Red Sea.
+    The Ocean Diva party cruise is an entertainment experience you'll never forget!
+    {{html: <hr> }}
+    @rowend
+
+    @row row 
+        h4. A brand new style of partying!
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Sit back and relax or dance your cares away as our team take care of you on our famous party cruise.
+        What could be better than an ice cold beer on a hot summer day? Our team will provide first class service with a great range of chilled drinks and delicious canapes. All you need to do is enjoy the best part on the Red Sea!
+    @colend
+    @rowend
+
+    @row row margBottom
+    @col 3 activPice
+        !/images/$$space/glass-boot-small.jpg!
+    @colend
+    @col 9 activPar
+        Our sound system is second to none and allows us to host some of the most talented local DJs to make your party extra special.
+        Not a fan of DJ music? Not a problem! Our sound system allows you to create your own atmosphere so why not bring along your favorite playlist and plug into our powerful BOSE sound system.
+    @colend
+    @rowend
+
+    @rowend
+  @colend
+
+  @col3 borderL
+    @col12
+      {{redsea_booking: category_id:3}}
+
+      @row activList
+        * [Ocean Diva Images]
+        * [Ocean Diva Videos]
+        
+        @LF
+      
+        h4. Trip Details
+        * Beer & wine included
+        * Delicious canapes
+        * Live DJs on request
+        * Private charters available
+      
+      @rowend
+      @row activList pay
+      h4. We accept
+
+      [!/images/$$space/pay1.jpg! | #] [!/images/$$space/pay2.jpg! | #] [!/images/$$space/pay3.jpg! | #] [!/images/$$space/pay4.jpg! | #]
+      
+      {{div}}
+    @colend
+  @colend
+@blockend  

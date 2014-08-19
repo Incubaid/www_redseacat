@@ -1,0 +1,6 @@
+{{carousel_bs3:
+/images/$$space/slider1.jpg
+/images/$$space/slider2.jpg
+/images/$$space/slider4.jpg
+/images/$$space/slider5.jpg
+}}

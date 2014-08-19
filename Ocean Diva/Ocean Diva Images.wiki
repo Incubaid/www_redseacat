@@ -1,0 +1,5 @@
+@usedefault
+
+h2. Ocean Diva Image Gallery
+{{gallery_bs3}}
+

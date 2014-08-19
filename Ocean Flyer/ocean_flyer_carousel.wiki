@@ -1,0 +1,4 @@
+{{carousel_bs3:
+/images/$$space/slider3.jpg
+/images/$$space/slider5.jpg
+}}
