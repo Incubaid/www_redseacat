@@ -40,8 +40,8 @@
     @colend
     @col 9 activPar
         Relaxation is just as important to us as adventure!
-        The Ocean Diva is equipped with large nets over the water to help you soak up the sun in comfort. Our team will make sure you don't go thirst with soft drinks and alcohol available as well as lunch ob board.
-        So let us take care of you as you enjoy the trip of a lifetime!
+The Ocean Diva is equipped with large nets over the water to help you soak up the sun in comfort. Our team will make sure you don’t go thirsty with soft drinks and alcohol available as well as lunch on board.
+So let us take care of you as you enjoy the trip of a lifetime!
     @colend
     @rowend
 

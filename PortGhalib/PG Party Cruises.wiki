@@ -15,9 +15,9 @@
   @col9 paddingB
     @row row avtivityDisc
     h2. Party Cruise
-    Join the Ocean Diva team for one of our legendary party cruises!
-    There's nothing better than enjoying your favorite tunes while cruising in the warm breeze of the Red Sea.
-    The Ocean Diva party cruise is an entertainment experience you'll never forget!
+   Join the Ocean Diva team for one of our legendary party cruises!
+There’s nothing better than enjoying your favourite tunes while crusing in the warm breeze of the Red Sea.
+The Ocean Diva party cruise is an entertainment experience you’ll never forget!
     {{html: <hr> }}
     @rowend
 
@@ -38,7 +38,7 @@
         !/images/$$space/glass-boot-small.jpg!
     @colend
     @col 9 activPar
-        Our sound system is second to none and allows us to host some of the most talented local DJs to make your party extra special.
+        Our sound system is second to none and allows us to host some of the most talented local DJ's to make your party extra special.
         Not a fan of DJ music? Not a problem! Our sound system allows you to create your own atmosphere so why not bring along your favorite playlist and plug into our powerful BOSE sound system.
     @colend
     @rowend

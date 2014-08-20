@@ -15,9 +15,11 @@
   @col9 paddingB
     @row row avtivityDisc
     h2. Day Trips
-    A true adventure for both adults and kids-alike!
-    Help out the crew or sit back and enjoy our first-class service as we hoist the mainsail to begin our Red Sea sailing experience!
-    With regular dolphin sightings and prime locations for snorkeling, you're sure to find excitement around every corner!
+    A true adventure for both adults and kids alike!
+
+Help out the crew or sit back and enjoy our first class service as we hoist the mainsail to begin our Red Sea sailing experience!
+
+With regular dolphin sightings and prime locations for snorkeling, you’re sure to find excitement around every corner!
     {{html: <hr> }}
     @rowend
 
