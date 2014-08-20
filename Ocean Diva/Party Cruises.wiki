@@ -25,7 +25,7 @@
         h4. A brand new style of partying!
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_partycruises_03.jpg!
     @colend
     @col 9 activPar
         Sit back and relax or dance your cares away as our team take care of you on our famous party cruise.
@@ -35,7 +35,7 @@
 
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_partycruises_06.jpg!
     @colend
     @col 9 activPar
         Our sound system is second to none and allows us to host some of the most talented local DJs to make your party extra special.

@@ -24,7 +24,7 @@
         h4. Have it your way
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_specialevents_03.jpg!
     @colend
     @col 9 activPar
         The choice is yours when it comes to planning your private events. Our Ocean Diva catamaran can receive up to 35 of your valued guests and our stylish powerboat can entertain up to ten.
@@ -34,7 +34,7 @@
 
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_specialevents_06.jpg!
     @colend
     @col 9 activPar
         Team building days, business events or just a good old party!

@@ -25,7 +25,7 @@
         h4. Relax in style
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_sunsetcruise_03.jpg!
     @colend
     @col 9 activPar
         Try our delicious range of canapes, producted locally and served by our experienced stewardess team.
@@ -35,7 +35,7 @@
 
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_sunsetcruise_06.jpg!
     @colend
     @col 9 activPar
         You can choose from our rage of champagne, beets and wine to set the mood for your sunset experience.

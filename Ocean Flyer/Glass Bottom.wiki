@@ -22,7 +22,7 @@
         h4. A fresh perspective on the Red Sea!
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_glassbottom_17.jpg!
     @colend
     @col 9 activPar
         Our glass bottom experience is truely unique!
@@ -33,7 +33,7 @@
 
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_glassbottom_33.jpg!
     @colend
     @col 9 activPar
         Our glass bottom boat is complete with a full range of snorkel equipment!

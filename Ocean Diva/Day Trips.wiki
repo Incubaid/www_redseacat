@@ -25,7 +25,7 @@
         h4. Something for everyone
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_daytrips_03.jpg!
     @colend
     @col 9 activPar
         We will give you everything you need to enjoy a perfect day's sailing. Full snorkel equipment is available on board as well as life jackets and a safety boat for that extra piece of mind!
@@ -36,7 +36,7 @@
 
     @row row margBottom
     @col 3 activPice
-        !/images/$$space/glass-boot-small.jpg!
+        !/images/$$space/Activity-page_daytrips_07.jpg!
     @colend
     @col 9 activPar
         Relaxation is just as important to us as adventure!
