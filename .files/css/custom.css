@@ -9,7 +9,7 @@
 html { position: relative; min-height: 100%; }
 body { margin-bottom: 48px; position: static; }
 footer { position: absolute; bottom: 0; width: 100%; height: 48px; background-color: #FFFFFF; }
-.slider.bg { margin-top: -107px; }
+.slider.bg { background-repeat: no-repeat; border-bottom: none; width: 1430px; margin: 0 auto; height: 410px; }
 .navbar.navbar-inverse.navbar-static-top ul li a { font-size: 16px; }
 .links { clear: both; width: 100%; display: inline-block; }
 .links a, #gallery a { margin: 12px; display: block; border: 2px solid #E1E1E1; cursor: pointer; }
@@ -110,3 +110,4 @@ footer a {font-size: 12px;color: #7A7A7A !important;}
 .half2 ul li { margin: 0 5px; }
 .half3 ul li a { display: inline-block; margin: 0 4px; font-size: 12px;} 
 .paddingB { padding-bottom: 30px;}
+.TA_cdsscrollingravewide #CDSSCROLLINGRAVE.wide { width: 390px;}

@@ -1,18 +1,22 @@
-@template home_template
+@template activities_template
 
 @block slider bg
+  @col 9
+  @colend
+  @col 3
+    !/$$space/.files/img/diva logo transparent.png!
+    {{include:tripadvisor_recommend}}
+  @colend
 @blockend
 
 @block features
 @block
-  @block section_header
+  @block header
     h3. Ocean Diva Catamaran Sailing Cruises
   @blockend
   @row row feature
-    @col 6 resp
-    !/$$space/.files/img/pic1.jpg!
-    @colend
-    @col 6 info
+    
+    @col 7 info
       The Ocean Divas are fast, stylish and modern catamarans. Their low drafts allow us to explore the reefs of El Gouna and Port Ghalib in comfort and style!
 
 We’ll take you to the most exciting spots in the Red Sea to experience first class swimming and snorkeling among shoals of colourful fish and beautiful reefs.
@@ -34,38 +38,15 @@ Want to help the crew? No problem! Our team are always willing to “show you th
 Experience true sailing as we hoist the main sail and let nature power our journey.
 
 You will get up close and personal with all the Red Sea has to offer with regular Dolphin sightings, sea turtles and dugongs to name but a few.
-
- 
-
- 
-
- 
-
  
 
 Ocean Diva, the ultimate Red Sea experience!
     @colend
+    @col 5 resp
+      !/$$space/.files/img/pic1.jpg!
+      {{include:tripadvisor_reviews}}
+      {{include:home_video}}
+    @colend
   @rowend
 @blockend
 @blockend
-
-
-@block team
-  @block
-    @row
-      @col 6 info info-left
-        The Ocean Divas are fast, stylish, and modern catamarans. With their low drafts, they can enter into very shallow reefs. Sailing in front of El Gouna or Port Ghalib, and anchor at beautiful reefs for swimming 
-        
-        {{include:tripadvisor_reviews}}
-        {{include:tripadvisor_recommend}}
-        {{include:social}}
-
-      @colend
-      @col 6
-          {{include:home_video}}
-      @colend
-    @rowend
-  @blockend
-@blockend
-
-

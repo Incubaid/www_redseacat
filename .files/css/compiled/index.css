@@ -158,10 +158,10 @@
 .bg { background: url(../../img/bg.jpg); }
 .slider { width: 100%; height: 480px; border-bottom: 2px solid rgb(88, 88, 88); }
 #CDSSCROLLINGRAVE { border: 0 !important; box-shadow: none !important; background: #e0e0e0 !important; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
-#CDSSCROLLINGRAVE marquee { background: #FFF; width: 82%; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; font-family: Lato, sans-serif; font-size: 14px; }
+#CDSSCROLLINGRAVE marquee { background: #FFF; width: 80%; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; font-family: Lato, sans-serif; font-size: 14px; }
 #CDSSCROLLINGRAVE .rightBorder { border-right: 0 !important; }
 .minH { min-height: 280px; }
-#cc-tp-sidebar { display: inline-block; float: left; }
+#cc-tp-sidebar { margin: 0 auto; width: 120px; }
 #cc-m-7283983568 { display: inline-block; margin: 20px 0 0 0; width: 280px; }
 .widFRR { margin-left: 0 !important; }
 #team, .team { padding: 35px 0 25px; margin: 0; background: #f7f7f7; border-top: 1px solid #eee; border-bottom: 1px solid #eee; }
