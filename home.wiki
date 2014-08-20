@@ -41,6 +41,9 @@ You will get up close and personal with all the Red Sea has to offer with regula
  
 
 Ocean Diva, the ultimate Red Sea experience!
+
+{{include:social}}
+
     @colend
     @col 5 resp
       !/$$space/.files/img/pic1.jpg!

@@ -32,7 +32,7 @@ footer { position: absolute; bottom: 0; width: 100%; height: 48px; background-co
 .mainButton:hover, .bookButton:hover { color: #FFF; background: #D43739; }
 .infoSection li:last-of-type { margin: 20px 0 0 0; }
 .infoSection li img { margin-right: 5px; }
-.TA_certificateOfExcellence { padding: 0 17px; }
+.TA_certificateOfExcellence { padding-left: 66px; }
 @media (max-width: 991px) {
 #CDSSCROLLINGRAVE.wide { width: 280px !important; }
 .well.blue .span3 { clear: both; width: 100% }

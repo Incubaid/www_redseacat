@@ -18,10 +18,8 @@
       	  <div class="col-md-5 half3">
 	          <ul>
 	          	<li><a href="#">Home </a><li>
-	          	<li><a href="#">Activities</a><li>
-	          	<li><a href="#"> El Gouna</a><li>
-	          	<li><a href="#">Port Ghalib </a><li>
-	          	<li><a href="#">Contact Us</a><li>
+	          	<li><a href="Ocean Diva">Ocean Diva</a><li>
+	          	<li><a href="Ocean Flyer">Ocean Flyer</a><li>
 	          </ul>
       	  </div>
         </div>
