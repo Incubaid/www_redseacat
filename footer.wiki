@@ -8,11 +8,7 @@
           <div class="col-md-4 half1"> © 2014 Red Sea Cat LLD. All Rights Reserved.</div>
           <div class="col-md-3 half2">
 	          <ul>
-	          	<li><a href="#"><img src="/images/$$space/follow1.jpg"></a><li>
 	          	<li><a href="https://www.facebook.com/oceandivacatamaran"><img src="/images/$$space/follow2.jpg"></a><li>
-	          	<li><a href="#"><img src="/images/$$space/follow3.jpg"></a><li>
-	          	<li><a href="#"><img src="/images/$$space/follow4.jpg"></a><li>
-	          	<li><a href="#"><img src="/images/$$space/follow5.jpg"></a><li>
 	          </ul>
       	  </div>
       	  <div class="col-md-5 half3">
