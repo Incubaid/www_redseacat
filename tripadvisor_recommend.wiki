@@ -1,10 +1,10 @@
 {{html:
-<div id="TA_certificateOfExcellence162" class="TA_certificateOfExcellence">
-<ul id="w7DJv2Y4jT8" class="TA_links f2hq11D49">
-<li id="AVkASBibM" class="SO8sDBAeTl4l">
-<a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
+<div id="TA_certificateOfExcellence263" class="TA_certificateOfExcellence">
+<ul id="9lXunWw39C" class="TA_links bwU9qIg">
+<li id="IYHcNNrZ" class="rV4eQEjLm">
+<a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g297548-d2085999-Reviews-Ocean_Diva_Catamaran_Sailing_Cruises-El_Gouna_Hurghada_Red_Sea_and_Sinai.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/awards/CoE2016_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
 </li>
 </ul>
 </div>
-<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=162&amp;locationId=2085999&amp;lang=en_US&amp;year=2014&amp;langversion=2"></script>
+<script src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=263&amp;locationId=2085999&amp;lang=en_US&amp;year=2016&amp;display_version=2"></script>
 }}

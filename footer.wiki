@@ -5,7 +5,7 @@
     <div class="row credits">
       <div class="col-md-12">
         <div class="row">
-          <div class="col-md-4 half1"> © 2014 Red Sea Cat LLD. All Rights Reserved.</div>
+          <div class="col-md-4 half1"> © 2016 Red Sea Cat LLC. All Rights Reserved.</div>
           <div class="col-md-3 half2">
 	          <ul>
 	          	<li><a href="https://www.facebook.com/oceandivacatamaran"><img src="/images/$$space/follow2.jpg"></a><li>
